@@ -1,0 +1,75 @@
+$event_primary_color: #fc732f;
+$logo_color: #fc732f;
+$menu_text_color: #ffffff;
+$menu_active_bottom-wheel_color: #86eaae;
+$event-search-icon-color: #fc732f;
+$content_viewable_max_area: 1180px;
+$form_input_max_width: 510px;
+
+@mixin set_font_almarai($font_weight: 100) {
+  font-family: Almarai, Helvetica, sans-serif;
+  font-weight: $font_weight;
+}
+@mixin set_header_background_color {
+  background: #5c524d;
+  color: $menu_text_color;
+}
+@mixin page_content_frame {
+  width: inherit;
+  max-width: $content_viewable_max_area;
+  height: inherit;
+  margin: 0 auto;
+  padding: 0 0 0 20px;
+}
+@mixin set_hr_line_separator {
+  height: 1px;
+  width: 100%;
+  max-width: $form_input_max_width;
+  border: transparent;
+  background: #d5d5d5;
+}
+.color-primary {
+  color: $event_primary_color;
+}
+.text-bold {
+  font-weight: 700;
+}
+.btn {
+  width: 100%;
+  height: 50px;
+  cursor: pointer;
+  font-size: 16px;
+  max-width: 205px;
+  font-weight: bold;
+  border-radius: 4px;
+  margin-bottom: 25px;
+  background: transparent;
+  color: $event_primary_color;
+  border: 2px solid $event_primary_color;
+  &.btn-primary {
+    background: $event_primary_color;
+    color: white;
+  }
+  &.btn-cancel {
+    margin-right: 10px;
+    margin-left: 32px;
+  }
+}
+.event-book-popup {
+  @include page_content_frame;
+  z-index: 2;
+  width: 100%;
+  height: 100px;
+  padding: 10px;
+  margin: 0 auto;
+  display: table;
+  max-width: 850px;
+  background: white;
+  position: relative;
+  border-radius: 4px;
+  box-shadow: 1px 2px 2px rgba(0, 0, 0, 0.25);
+}
+
+.error {
+  color: red;
+}

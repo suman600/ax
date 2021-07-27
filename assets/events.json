@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "title": "Understanding color theory: the color wheel and findings",
+    "eventDate": "21 July 2021",
+    "availableTickets": 0,
+    "thumbnailFile": "event-1.png"
+  },
+  {
+    "id": 2,
+    "title": "RGD Design Thinkers",
+    "eventDate": "23 aug 2021",
+    "availableTickets": 10,
+    "thumbnailFile": "event-2.png"
+  },
+  {
+    "id": 3,
+    "title": "What Design Can Do",
+    "eventDate": "05 sep 2021",
+    "availableTickets": 4,
+    "thumbnailFile": "event-3.png"
+  },
+
+  {
+    "id": 4,
+    "title": "Perth UX Camp",
+    "eventDate": "12 sep 2021",
+    "availableTickets": 16,
+    "thumbnailFile": "event-4.png"
+  },
+  {
+    "id": 5,
+    "title": "Sofia Design",
+    "eventDate": "29 oct 2021",
+    "availableTickets": 85,
+    "thumbnailFile": "event-3.png"
+  },
+  {
+    "id": 6,
+    "title": "Design Indaba Conference at mumbai",
+    "eventDate": "11 nov 2021",
+    "availableTickets": 19,
+    "thumbnailFile": "event-6.png"
+  },
+  {
+    "id": 7,
+    "title": "TYPO Berlin",
+    "eventDate": "22 dec 2021",
+    "availableTickets": 100,
+    "thumbnailFile": "event-7.png"
+  },
+  {
+    "id": 8,
+    "title": "AIGA Design Conference",
+    "eventDate": "21 sep 2021",
+    "availableTickets": 120,
+    "thumbnailFile": "event-8.png"
+  },
+  {
+    "id": 9,
+    "title": "India Got Talent Auditions at Hyderabad",
+    "eventDate": "21 sep 2021",
+    "availableTickets": 0,
+    "thumbnailFile": "event-9.png"
+  },
+  {
+    "id": 10,
+    "title": "Watch premiere on Youtube",
+    "eventDate": "21 sep 2021",
+    "availableTickets": 85,
+    "thumbnailFile": "event-10.png"
+  },
+  {
+    "id": 11,
+    "title": "Lorem Porem ispum donor",
+    "eventDate": "15 sep 2022",
+    "availableTickets": 8500,
+    "thumbnailFile": "event-11.png"
+  },
+  {
+    "id": 12,
+    "title": "Creating Connections - Building Bridges Together",
+    "eventDate": "15 Oct 2021",
+    "availableTickets": 50,
+    "thumbnailFile": "event-12.png"
+  },
+  {
+    "id": 13,
+    "title": "Events In Navi Mumbai",
+    "eventDate": "16 jan 2022",
+    "availableTickets": 2,
+    "thumbnailFile": "event-7.png"
+  },
+  {
+    "id": 14,
+    "title": "Tenet! Koin on live stream",
+    "eventDate": "10 Feb 2022",
+    "availableTickets": 28,
+    "thumbnailFile": "event-3.png"
+  }
+]
